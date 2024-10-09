@@ -15,4 +15,4 @@ Esta aplicación muestra un mapa con la ubicación actual del usuario al ejecuta
 3. Añade tu API Key de Google Maps en el AndroidManifest.xml.
 
 4. Ejecuta la aplicación en un dispositivo(usando cable USB) o emulador Android.
-5. 
+   
